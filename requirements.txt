@@ -1,0 +1,16 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+sqlalchemy
+pyodbc
+tableau-api-lib
+nltk
+textblob
+requests
+beautifulsoup4
+jupyter
+notebook
+
+pip install -r requirements.txt
